@@ -1,0 +1,665 @@
+
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    color: hsl(243, 87%, 12%);
+}
+
+h1, h2, h3, h4, h5, h6 {
+
+}
+
+.container-fluid {
+    padding: 3% 4.75%;
+    max-width: 1440px;
+}
+
+                                          /* Navigation Bar */
+
+
+.illustration-1 {
+    width: 100%;
+}
+
+
+.navbar {
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 5.5rem;
+    text-align: center;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: hsl(243, 87%, 12%);
+}
+
+.nav-item {
+    padding-left: 2.25rem;
+}
+
+.nav-link {
+    font-size: 1.05rem;
+    font-family: 'Raleway', sans-serif;
+}
+
+                                /*  Title */
+
+
+.form-control {
+    padding: 1.6rem 9rem 1.2rem 1.5rem;
+    border: 1px solid black;
+    font-size: 0.85rem;
+}
+
+.btn {
+    font-size: 0.85rem;
+    padding: 0.8rem 4rem;
+}
+
+.title-form ::placeholder {
+    color: hsl(0, 0%, 75%);
+    opacity: 1; /* Firefox */
+  }
+  
+.title-form :-ms-input-placeholder { /* Internet Explorer 10-11 */
+   color: hsl(0, 0%, 75%);
+  }
+  
+.title-form ::-ms-input-placeholder { /* Microsoft Edge */
+   color: hsl(0, 0%, 75%);
+  }
+
+.title-content {
+    padding-top: 4.5rem;
+}
+
+.title-form {
+    margin-left: 0!important;
+}
+
+.title-h1, .main-h1 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+    line-height: 1.5;
+    margin-bottom: 0.7rem;
+}
+
+.title-content p {
+    width: 95%;
+}
+.title-p {
+    font-size: 1.15rem;
+    line-height: 1.4;
+    margin-bottom: 1.25rem;
+}
+
+.bg-curve-desktop {
+    max-width: 1440px;
+    height: 100%;
+    margin: 0 auto;
+    padding-top: 7.25%;
+}
+
+.bg-curve-desktop-img {
+    width: 100%;
+    height: auto;
+}
+
+                               /* Section Main  Container-main */
+
+
+.container-main {
+    background-color: #f8f8fe;
+    padding-top: 4%;
+    padding-bottom: 6.5%;
+}
+
+.container-main-2 {
+    background-color: hsl(238, 22%, 44%);
+}
+
+.illustration-2 {
+    width: 100%; 
+    padding-top: 30px;
+}
+
+.col-lg-5 {
+    padding-left: 0;
+}
+
+.col-lg-7 {
+    padding-right: 25px;
+}
+
+.main-h1 {
+    margin-bottom: 1.7rem;
+}
+
+.main-p {
+    font-size: 1rem;
+    margin-bottom: 1rem;
+    padding-right: 25%;
+}
+
+.green-link {
+    color: hsl(170, 45%, 43%);
+}
+
+.green-link p {
+    margin: 0;
+    padding: 0;
+}
+
+.icon-arrow-class {
+    padding-left: 2px;
+}
+
+hr {
+    height: 10px;
+    border-top: 1px solid hsl(170, 45%, 43%);
+    width: 165px;
+    padding: 0;
+    margin: 2px 0 0;
+}
+
+.quotation-mark {
+    background-color: white;
+    height: 215px;
+    width: 356px;
+    margin-top: 2.25rem;
+    border-radius: 2%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.05), 0 6px 20px 0 rgba(0, 0, 0, 0.05);
+}
+
+.frames-q-mark {
+    padding: 24px 34px;
+}
+
+.frames-q-mark .paragraph {
+    font-size: 0.85rem;
+    margin-top: 5px;
+    line-height: 1.75;
+    position: relative;
+}
+
+.avatar-testimonial {
+    width: 11%;
+    border-radius: 100%;
+    float: left;
+}
+
+.testimonial-author {
+    padding-left: 40px;
+}
+
+.t-a-p-1, .t-a-p-2 {
+    padding: 0;
+    margin: 0;
+    font-size: 0.55rem;
+}
+
+.t-a-p-1 {
+    font-weight: 900;
+    font-size: 0.75rem;
+}
+
+                                    /* Section Main  Container-main-2 */
+
+.main-content-2 {
+    color: #fff;
+    padding-top: 3.75%;
+}
+
+.main-content-2 h3 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.main-content-2 p {
+    width: 78%;
+    color: hsl(240, 75%, 98%);
+    font-stretch: ultra-expanded;
+}
+
+.main-content-2-2 {
+    padding: 4% 3% 4% 9%;
+}
+
+.fm-2 {
+    padding: 1.4rem 20rem 1.5rem 1.4rem;
+    font-size: 0.75rem;
+}
+
+.button-down {
+    margin-top: 6px;
+    padding: 0.8rem 2.25rem;
+}
+
+                                /*  Footer */
+
+#footer {
+
+    background-color: hsl(243, 87%, 12%);
+    color: white;
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.footer-container {
+    padding: 5.5% 4.75% 1.5%;
+}
+
+.phone-image, .email-image {
+    padding-right: 20px;
+}
+
+
+.footer-logo {
+    margin: 25px 0;
+}
+
+.col-lg-3 ul {
+    margin-left: 4rem;
+    margin-top: 6rem;
+    list-style-type: none;
+    line-height: 2.5;
+}
+
+.footer-contact ul {
+    margin-left: 1.5rem;
+}
+
+.footer-about ul {
+    margin-left: 5rem;
+}
+
+.social ul {
+    margin-top: 7rem;
+    margin-left: 0;
+    padding: 0;
+    font-size: 0.75rem;
+}
+
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center;
+    margin-bottom: 0;
+    padding: 1rem 0;
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+.fab {
+    padding: 8px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    border: 1.25px solid #fff;
+    color: #fff;
+    margin: 0 7px;
+  }
+
+.fa-facebook-f, .fa-instagram {
+    padding: 8px 11px;
+}
+
+.fa-instagram {
+    padding: 8px 9px;
+}
+
+.social-icons ul li {
+    display: inline;
+}
+
+@media (max-width: 1340px) {
+    .title-content {
+        padding-top: 1rem;
+    }
+}
+
+@media (max-width: 1240px) {
+    .title-content {
+        padding-top: 0rem;
+    }
+}
+
+@media (max-width: 1237px) {
+
+    .illustr-1 {
+        padding-top: 1rem;
+    }
+    .button-up {
+        padding: 0.8rem 7.9rem;
+    }
+
+    .main-content-2 p {
+        width: 90%;
+    }
+}
+
+@media (max-width: 1190px) {
+
+    .fm-2 {
+        padding: 1.4rem 16rem 1.5rem 1.4rem;
+        
+    }
+
+    .footer-about ul, .footer-contact ul, social ul{
+        margin: 3.5rem 0 0 5rem;
+        padding: 2rem 0 0;
+    }
+
+    .social-icons {
+        text-align: center;
+    }
+
+    .social ul {
+        margin-top: 6.25rem;
+    }
+}
+
+@media (max-width: 1100px) {
+
+    .illustr-1 {
+        padding-top: 2rem;
+    }
+
+    .fm-2 {
+        padding: 1.4rem 12rem 1.5rem 1.4rem;
+        
+    }
+
+    .footer-logo-container, .footer-about, .footer-contact, social {  
+        padding-right: 0;
+    }
+
+
+}
+
+@media (max-width: 1032px) {
+    .fm-2 {
+        padding: 1.4rem 12rem 1.5rem 1.4rem;
+    }
+
+}
+
+@media (max-width: 991px) {
+
+    .order-2 {
+        order: -1;
+    }
+
+    .illustr-1, .illustr-2 {
+        padding: 2rem 6rem 4rem;
+    }
+
+    .main-content-2-2 {
+        padding: unset;
+    }
+
+    .form-down {
+        margin-top: 0.5rem;
+    }
+
+    .main-content-2 p {
+        width: 75%;
+    }
+
+    .title-form-down {
+        margin: 0 1rem 0.5rem!important;
+    }
+
+    .button-down {
+        margin-top: unset;
+    }
+
+    .social-icons ul li {
+        display: inline;
+    }
+    
+    .social-icons {
+        text-align: center;
+    }
+
+}
+
+@media (max-width: 767px) {
+
+
+    .footer-about ul, .footer-contact ul{
+        margin: 0;
+        padding: 2rem 0 0;
+    }
+
+    .social ul {
+        margin-top: 3rem;
+    }
+
+}
+
+@media (max-width: 718px) {
+
+    .main-p {
+        
+        padding-right: 15%;
+    }
+
+    .title-form {
+        margin: 1.5rem auto 1rem!important;
+    }
+
+    .title-form-down {
+        margin: 0 1rem 0.5rem!important;
+    }
+
+    .button-up {
+
+        margin: 0.3rem auto 0.5rem;
+        padding: 0.75rem 7.8rem;
+    }
+}
+
+@media (max-width: 630px) {
+
+    .fm-2 {
+        padding: 1.4rem 8rem 1.5rem 1.4rem;
+    }
+
+}
+
+@media (max-width: 543px) {
+
+    .fm-2 {
+        padding: 1.4rem 7rem 1.5rem 1.4rem;
+    }
+
+    .title-form {
+        text-align: center;
+        margin: 0.5rem auto 10px!important;
+    }
+
+    .button-down {
+        margin: 0.5rem auto 1rem;
+        padding: 0.9rem 5.05rem;
+        font-size: 0.7rem;
+    }
+
+    .container-main-2 {
+        padding-bottom: 2rem;
+    }
+
+}
+
+
+@media (max-width: 375px) {
+
+                             /* Navigation Bar */
+
+    .logo {
+        width: 60%;
+    }
+
+    .navbar {
+        padding-bottom: 7.5rem;
+        text-align: unset;
+    }
+
+    .navbar-brand {
+        padding-left: 0.5rem;
+    }
+
+    .order-2 {
+        order: -1;
+    }
+
+    .order-1 {
+        text-align: center;
+    }
+
+                              /*  Title */
+
+    .title-form {
+        text-align: center;
+        margin: 0 auto 10px!important;
+    }
+
+    .title-h1 {
+        font-size: 1.65rem;
+    }
+
+    .title-content p {
+        width: 100%;
+        font-size: 1rem;
+    }
+
+    .form-control {
+        padding: 1.5rem 10rem 1.2rem 1.5rem;
+        font-size: 0.75rem;
+    }
+
+    .button-up {
+
+        margin: 0.3rem auto 0.5rem;
+        padding: 0.75rem 7.8rem;
+    }
+
+    .bg-curve-desktop {
+        padding-top: 25%;
+    }
+                              /* Section Main  Container-main */
+
+    .col-lg-5 {
+        padding: 2.5rem 1rem 0 1rem;
+    }
+
+    .col-lg-7 {
+        padding: 2.5rem 1rem 0 1rem;
+    }
+
+
+    .main-h1 {
+        margin-top: 5rem;
+        font-size: 1.15rem;
+    }
+
+    .main-p {
+        text-align: left;
+        padding: 0;
+        font-size: 0.9rem;
+    }
+
+    .green-link {
+        margin-top: 2.5rem;
+    }
+
+    .green-link p {
+        font-size: 0.85rem;
+    }
+
+    hr {
+        margin: 5px auto 0;
+        width: 145px;
+    }
+
+    .quotation-mark {
+        text-align: left;
+        width: 315px; /*315px*/
+        padding: 10px 24px 20px;
+        margin: 2rem auto 3.5rem;
+        height: unset;
+    }
+
+    .frames-q-mark .paragraph {
+        font-size: 0.75rem;
+    }
+    .container-main-2 {
+        padding: 3% 4.75% 18%;
+    }
+    
+
+    .fm-2 {
+        padding: 1.4rem 6rem 1.2rem 1.4rem;
+    }
+    
+    .main-content-2 h3 {
+        
+        font-size: 1.25rem;
+        margin-top: 30px;
+        margin-bottom: 25px;
+        text-align: center;
+    }
+
+    .main-content-2 {
+        padding-bottom: 3.75%;
+    }
+
+    .main-content-2 p {
+        text-align: center;
+        margin: 0 auto 1rem;
+        width: unset;
+        padding: 0 10px;
+    }
+
+    .main-content-2-2 {
+        padding: unset;
+    }
+
+    .button-down {
+        margin: 0 auto;
+        padding: 0.75rem 4.6rem;
+        font-size: 0.7rem;
+    }
+
+                            /* Footer */
+
+    .footer-container {
+        padding: 7.5% 12% 1.5%;
+    }
+
+    .footer-about ul, .footer-contact ul{
+        margin: 0;
+        padding: 2rem 0 0;
+    }
+
+    .social-icons ul {
+        margin: 3.5rem auto 1rem;
+    }
+
+}
+
+/*
+font-family: 'Open Sans', sans-serif;
+font-family: 'Raleway', sans-serif;
+*/
+
+
+
+
+
+

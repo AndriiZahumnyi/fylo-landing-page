@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.container-mobile {
+    max-width: 375px;
+    margin: 0 auto;
+    
+}
