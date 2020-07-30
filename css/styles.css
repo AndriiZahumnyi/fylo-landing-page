@@ -24,6 +24,7 @@ h1, h2, h3, h4, h5, h6 {
 
 
 .navbar {
+    padding-top: 1rem;
     padding-left: 0;
     padding-right: 0;
     padding-bottom: 5.5rem;
@@ -395,8 +396,13 @@ hr {
         order: -1;
     }
 
+    .title-p {
+        
+        margin-bottom: 1.75rem;
+    }
+
     .illustr-1, .illustr-2 {
-        padding: 2rem 6rem 4rem;
+        padding: 5% 10% 15%;
     }
 
     .main-content-2-2 {
